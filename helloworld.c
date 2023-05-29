@@ -7,7 +7,7 @@ int main() {
 
      //This is a comment
      /*This is a block of comments 
-       and it does need to stop in one line*/
+       and it doesn't need to stop in one line*/
     printf("today i learned print function loool\n");
 
 } 
