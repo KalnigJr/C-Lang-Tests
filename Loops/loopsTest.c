@@ -9,7 +9,9 @@ int main()
 {
     int a, b;
     scanf("%d\n%d", &a, &b);
-  	// Complete the code.
+  	// Given two numbers a and b, for every number from a through b, print the English representation if the number is less than 10.
+    // If it is 10 or more, print if it is even or odd. Create a loop to iterate from a through b. 
+    
        int n;
          
      for ( n = a ; n <= b ; n++ ){
